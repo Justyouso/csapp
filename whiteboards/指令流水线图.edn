@@ -1,0 +1,1086 @@
+{:blocks (
+{:block/created-at 1697903614207
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "blue"
+:rotation 0
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill "blue"
+:type "box"
+:size [72 88]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "组合逻辑A"
+:id "317d0130-7029-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill false
+:point [88 488]
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903272553
+:italic false}}
+:block/updated-at 1697903614207} 
+{:block/content "CD"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"}
+:block/parent 
+{:block/uuid #uuid "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"}
+:block/properties 
+{}
+:block/uuid #uuid "6533f2bd-3810-4c47-a4a9-2a814e1bf4a2"} 
+{:block/created-at 1697903398129
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [40 88]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "寄存器"
+:id "5b7b2070-7029-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill false
+:point [192 488]
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903342843
+:italic false}}
+:block/updated-at 1697903398129} 
+{:block/created-at 1697903617715
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "blue"
+:rotation 0
+:borderRadius 2
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill "blue"
+:type "box"
+:size [72 88]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "组合逻辑B"
+:id "780eccf0-7029-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [272 488]
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903272759
+:italic false}}
+:block/updated-at 1697903617715} 
+{:block/created-at 1697903398129
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [40 88]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "寄存器"
+:id "780eccf1-7029-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [376 488]
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903342897
+:italic false}}
+:block/updated-at 1697903398129} 
+{:block/created-at 1697903620758
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "blue"
+:rotation 0
+:borderRadius 2
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill "blue"
+:type "box"
+:size [72 88]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "组合逻辑C"
+:id "846389f0-7029-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [448 488]
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903272753
+:italic false}}
+:block/updated-at 1697903620758} 
+{:block/created-at 1697903419660
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [40 88]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "寄存器"
+:id "846389f1-7029-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [552 488]
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903343043
+:italic false}}
+:block/updated-at 1697903419660} 
+{:block/created-at 1697903450231
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "96e341b2-7029-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill true
+:point [32 535.91]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0.09]}
+:end 
+{:id "end"
+:canBind true
+:point [52 0]
+:bindingId "96e341b1-7029-11ee-a7f1-d3fac2bae7ee"}}
+:decorations 
+{:end "arrow"}
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903442360
+:italic false}}
+:block/updated-at 1697903450231} 
+{:block/created-at 1697903454303
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 7
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "9b07be12-7029-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill true
+:point [160 535.92]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0.08]}
+:end 
+{:id "end"
+:canBind true
+:point [28 0]
+:bindingId "9b07be11-7029-11ee-a7f1-d3fac2bae7ee"}}
+:decorations 
+{:end "arrow"}
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903449238
+:italic false}}
+:block/updated-at 1697903454303} 
+{:block/created-at 1697903462091
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 8
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "9d860482-7029-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill true
+:point [232 535.93]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0.07]}
+:end 
+{:id "end"
+:canBind true
+:point [36 0]
+:bindingId "9d860481-7029-11ee-a7f1-d3fac2bae7ee"}}
+:decorations 
+{:end "arrow"}
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903453432
+:italic false}}
+:block/updated-at 1697903462091} 
+{:block/created-at 1697903469905
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 9
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "a43d12a2-7029-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill true
+:point [344 535.92]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0.08]}
+:end 
+{:id "end"
+:canBind true
+:point [28 0]
+:bindingId "a43d12a1-7029-11ee-a7f1-d3fac2bae7ee"}}
+:decorations 
+{:end "arrow"}
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903464680
+:italic false}}
+:block/updated-at 1697903469905} 
+{:block/created-at 1697903473702
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 10
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "a6b40612-7029-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill true
+:point [416 535.94]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0.06]}
+:end 
+{:id "end"
+:canBind true
+:point [28 0]
+:bindingId "a6b40611-7029-11ee-a7f1-d3fac2bae7ee"}}
+:decorations 
+{:end "arrow"}
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903468831
+:italic false}}
+:block/updated-at 1697903473702} 
+{:block/created-at 1697903487970
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "a9112ff2-7029-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill true
+:point [520 535.92]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0.08]}
+:end 
+{:id "end"
+:canBind true
+:point [28 0]
+:bindingId "a9112ff1-7029-11ee-a7f1-d3fac2bae7ee"}}
+:decorations 
+{:end "arrow"}
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903472784
+:italic false}}
+:block/updated-at 1697903487970} 
+{:block/created-at 1697903501712
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 12
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [57 30]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "aec748d0-7029-11ee-a7f1-d3fac2bae7ee"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [96 448]
+:lineHeight 1.2
+:fontSize 16
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903482442
+:italic false
+:text "100ps"}}
+:block/updated-at 1697903501712} 
+{:block/created-at 1697903518146
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 13
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [49 30]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "be1f33b0-7029-11ee-a7f1-d3fac2bae7ee"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [192 448]
+:lineHeight 1.2
+:fontSize 16
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903482507
+:italic false
+:text "20ps"}}
+:block/updated-at 1697903518146} 
+{:block/created-at 1697903529425
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 15
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [49 30]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c8d61f31-7029-11ee-a7f1-d3fac2bae7ee"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [368 448]
+:lineHeight 1.2
+:fontSize 16
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903482558
+:italic false
+:text "20ps"}}
+:block/updated-at 1697903529425} 
+{:block/created-at 1697903529426
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 14
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [57 30]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c8d61f30-7029-11ee-a7f1-d3fac2bae7ee"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [272 448]
+:lineHeight 1.2
+:fontSize 16
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903482493
+:italic false
+:text "100ps"}}
+:block/updated-at 1697903529426} 
+{:block/created-at 1697903560560
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 17
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [49 30]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "db16f931-7029-11ee-a7f1-d3fac2bae7ee"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [544 448]
+:lineHeight 1.2
+:fontSize 16
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903482636
+:italic false
+:text "20ps"}}
+:block/updated-at 1697903560560} 
+{:block/created-at 1697903560559
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 16
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "text"
+:size [57 30]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "db16f930-7029-11ee-a7f1-d3fac2bae7ee"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [448 448]
+:lineHeight 1.2
+:fontSize 16
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903482571
+:italic false
+:text "100ps"}}
+:block/updated-at 1697903560559} 
+{:block/created-at 1697903591307
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 18
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "时间"
+:id "e15d9242-7029-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill true
+:point [40 608]
+:fontSize 16
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]}
+:end 
+{:id "end"
+:canBind true
+:point [576 0]
+:bindingId nil}}
+:decorations 
+{:end "arrow"}
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903567343
+:italic false}}
+:block/updated-at 1697903591307} 
+{:block/created-at 1697903702711
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 19
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [131 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "22965940-702a-11ee-a7f1-d3fac2bae7ee"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [264 384]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903676752
+:italic false
+:text "三阶段流水线"}}
+:block/updated-at 1697903702711} 
+{:block/created-at 1697903724768
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 20
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [71 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "37b525e0-702a-11ee-a7f1-d3fac2bae7ee"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [264 688]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903676869
+:italic false
+:text "吞吐量"}}
+:block/updated-at 1697903724768} 
+{:block/created-at 1697903770722
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 21
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [64 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "A"
+:id "42f601e0-702a-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill false
+:point [200 752]
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903731100
+:italic false}}
+:block/updated-at 1697903770722} 
+{:block/content "A"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6533f2bd-3810-4c47-a4a9-2a814e1bf4a2"}
+:block/parent 
+{:block/uuid #uuid "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"}
+:block/uuid #uuid "6533f47f-c21a-4071-8602-67c55600b961"} 
+{:block/created-at 1697903775303
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 22
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [64 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "B"
+:id "4f830cf0-702a-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [264 752]
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903731250
+:italic false}}
+:block/updated-at 1697903775303} 
+{:block/created-at 1697903779913
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 23
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [64 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "C"
+:id "5579ff60-702a-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [328 752]
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903731266
+:italic false}}
+:block/updated-at 1697903779913} 
+{:block/created-at 1697903797746
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 24
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [26 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "63e0ac70-702a-11ee-a7f1-d3fac2bae7ee"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [144 752]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903786282
+:italic false
+:text "I1"}}
+:block/updated-at 1697903797746} 
+{:block/created-at 1697903818795
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 27
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [64 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "C"
+:id "723c5d02-702a-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [392 808]
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903731466
+:italic false}}
+:block/updated-at 1697903818795} 
+{:block/created-at 1697903818796
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 25
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [64 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "A"
+:id "723c5d00-702a-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [264 808]
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903731300
+:italic false}}
+:block/updated-at 1697903818796} 
+{:block/created-at 1697903830136
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 28
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [29 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "723c5d03-702a-11ee-a7f1-d3fac2bae7ee"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [144 808]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903786569
+:italic false
+:text "I2"}}
+:block/updated-at 1697903830136} 
+{:block/created-at 1697903818795
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 26
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [64 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "B"
+:id "723c5d01-702a-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [328 808]
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903731450
+:italic false}}
+:block/updated-at 1697903818795} 
+{:block/created-at 1697903849668
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 31
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [64 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "C"
+:id "8354e3a2-702a-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [456 864]
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903731412
+:italic false}}
+:block/updated-at 1697903849668} 
+{:block/created-at 1697903849669
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 30
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [64 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "B"
+:id "8354e3a1-702a-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [392 864]
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903731396
+:italic false}}
+:block/updated-at 1697903849669} 
+{:block/created-at 1697903861407
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 32
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [30 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8354e3a3-702a-11ee-a7f1-d3fac2bae7ee"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [144 864]
+:lineHeight 1.2
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903786554
+:italic false
+:text "I3"}}
+:block/updated-at 1697903861407} 
+{:block/created-at 1697903849669
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 29
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [64 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "A"
+:id "8354e3a0-702a-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [328 864]
+:fontSize 20
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903731246
+:italic false}}
+:block/updated-at 1697903849669} 
+{:block/created-at 1697903873336
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 33
+:scale [1 1]
+:scaleLevel "sm"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label "时间"
+:id "959680f0-702a-11ee-a7f1-d3fac2bae7ee"
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [96 936]
+:fontSize 16
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]}
+:end 
+{:id "end"
+:canBind true
+:point [576 0]
+:bindingId nil}}
+:decorations 
+{:end "arrow"}
+:parentId "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:nonce 1697903567429
+:italic false}}
+:block/updated-at 1697903873336})
+:pages (
+{:block/uuid #uuid "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6533f262-a0d4-4f2c-81ad-0d67726e2ba8"
+:name "指令流水线图"
+:bindings 
+{:96e341b1-7029-11ee-a7f1-d3fac2bae7ee 
+{:id "96e341b1-7029-11ee-a7f1-d3fac2bae7ee"
+:type "line"
+:fromId "96e341b2-7029-11ee-a7f1-d3fac2bae7ee"
+:toId "317d0130-7029-11ee-a7f1-d3fac2bae7ee"
+:handleId "end"
+:point [0.53 0.54]
+:distance 4}
+:9b07be11-7029-11ee-a7f1-d3fac2bae7ee 
+{:id "9b07be11-7029-11ee-a7f1-d3fac2bae7ee"
+:type "line"
+:fromId "9b07be12-7029-11ee-a7f1-d3fac2bae7ee"
+:toId "5b7b2070-7029-11ee-a7f1-d3fac2bae7ee"
+:handleId "end"
+:point [0.54 0.54]
+:distance 4}
+:9d860481-7029-11ee-a7f1-d3fac2bae7ee 
+{:id "9d860481-7029-11ee-a7f1-d3fac2bae7ee"
+:type "line"
+:fromId "9d860482-7029-11ee-a7f1-d3fac2bae7ee"
+:toId "780eccf0-7029-11ee-a7f1-d3fac2bae7ee"
+:handleId "end"
+:point [0.53 0.54]
+:distance 4}
+:a43d12a1-7029-11ee-a7f1-d3fac2bae7ee 
+{:id "a43d12a1-7029-11ee-a7f1-d3fac2bae7ee"
+:type "line"
+:fromId "a43d12a2-7029-11ee-a7f1-d3fac2bae7ee"
+:toId "780eccf1-7029-11ee-a7f1-d3fac2bae7ee"
+:handleId "end"
+:point [0.63 0.54]
+:distance 4}
+:a6b40611-7029-11ee-a7f1-d3fac2bae7ee 
+{:id "a6b40611-7029-11ee-a7f1-d3fac2bae7ee"
+:type "line"
+:fromId "a6b40612-7029-11ee-a7f1-d3fac2bae7ee"
+:toId "846389f0-7029-11ee-a7f1-d3fac2bae7ee"
+:handleId "end"
+:point [0.53 0.54]
+:distance 4}
+:a9112ff1-7029-11ee-a7f1-d3fac2bae7ee 
+{:id "a9112ff1-7029-11ee-a7f1-d3fac2bae7ee"
+:type "line"
+:fromId "a9112ff2-7029-11ee-a7f1-d3fac2bae7ee"
+:toId "846389f1-7029-11ee-a7f1-d3fac2bae7ee"
+:handleId "end"
+:point [0.54 0.54]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("317d0130-7029-11ee-a7f1-d3fac2bae7ee" "5b7b2070-7029-11ee-a7f1-d3fac2bae7ee" "780eccf0-7029-11ee-a7f1-d3fac2bae7ee" "780eccf1-7029-11ee-a7f1-d3fac2bae7ee" "846389f0-7029-11ee-a7f1-d3fac2bae7ee" "846389f1-7029-11ee-a7f1-d3fac2bae7ee" "96e341b2-7029-11ee-a7f1-d3fac2bae7ee" "9b07be12-7029-11ee-a7f1-d3fac2bae7ee" "9d860482-7029-11ee-a7f1-d3fac2bae7ee" "a43d12a2-7029-11ee-a7f1-d3fac2bae7ee" "a6b40612-7029-11ee-a7f1-d3fac2bae7ee" "a9112ff2-7029-11ee-a7f1-d3fac2bae7ee" "aec748d0-7029-11ee-a7f1-d3fac2bae7ee" "be1f33b0-7029-11ee-a7f1-d3fac2bae7ee" "c8d61f30-7029-11ee-a7f1-d3fac2bae7ee" "c8d61f31-7029-11ee-a7f1-d3fac2bae7ee" "db16f930-7029-11ee-a7f1-d3fac2bae7ee" "db16f931-7029-11ee-a7f1-d3fac2bae7ee" "e15d9242-7029-11ee-a7f1-d3fac2bae7ee" "22965940-702a-11ee-a7f1-d3fac2bae7ee" "37b525e0-702a-11ee-a7f1-d3fac2bae7ee" "42f601e0-702a-11ee-a7f1-d3fac2bae7ee" "4f830cf0-702a-11ee-a7f1-d3fac2bae7ee" "5579ff60-702a-11ee-a7f1-d3fac2bae7ee" "63e0ac70-702a-11ee-a7f1-d3fac2bae7ee" "723c5d00-702a-11ee-a7f1-d3fac2bae7ee" "723c5d01-702a-11ee-a7f1-d3fac2bae7ee" "723c5d02-702a-11ee-a7f1-d3fac2bae7ee" "723c5d03-702a-11ee-a7f1-d3fac2bae7ee" "8354e3a0-702a-11ee-a7f1-d3fac2bae7ee" "8354e3a1-702a-11ee-a7f1-d3fac2bae7ee" "8354e3a2-702a-11ee-a7f1-d3fac2bae7ee" "8354e3a3-702a-11ee-a7f1-d3fac2bae7ee" "959680f0-702a-11ee-a7f1-d3fac2bae7ee")}}
+:block/journal? false
+:block/updated-at 1697903873336
+:block/created-at 1697903202177
+:block/type "whiteboard"
+:block/name "指令流水线图"
+:block/original-name "指令流水线图"})}
